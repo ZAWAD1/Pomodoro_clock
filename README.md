@@ -1,4 +1,4 @@
-# Pomodoro Clock Focus
+# Pomodoro Clock
 
 This is a passion project of mine. Staying focus was tuff so I build this Pomodoro timer,
 where you can set a time you want to fucus fully on then enjoy your break, Then work again no need to look at
@@ -16,7 +16,8 @@ the timer as the inbuild sounds will tell you. This was a need based project of 
 6.  Installation
 7.  Usage
 8.  Project Structure
-9. License
+9.  APK Download Link
+10. License
 
 ---
 
@@ -101,10 +102,15 @@ flutter run
 
 ---
 
+## 🖇️ APK Release
+    
+
+---
+
 ## 📄 License
 
-Copyright <2026> 
-<COPYRIGHT HOLDER ZAWAD>
+Copyright 2026 
+COPYRIGHT HOLDER ZAWAD
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

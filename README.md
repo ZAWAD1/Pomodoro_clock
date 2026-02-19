@@ -8,16 +8,15 @@ the timer as the inbuild sounds will tell you. This was a need based project of 
 
 ## 📌 Table of Contents
 
-1.  About\
-2.  Features\
-3.  Screenshots\
-4.  Getting Started\
-5.  Prerequisites\
-6.  Installation\
-7.  Usage\
-8.  Project Structure\
-9.  Contributing\
-10. License
+1.  About
+2.  Features
+3.  Screenshots
+4.  Getting Started
+5.  Prerequisites
+6.  Installation
+7.  Usage
+8.  Project Structure
+9. License
 
 ---
 
@@ -32,10 +31,10 @@ breaks.
 
 ## 🚀 Features
 
-✔️ Timer for focused work sessions\
-✔️ Short break timer\
-✔️ Long break timer\
-✔️ Simple and clean user interface\
+✔️ Timer for focused work sessions
+✔️ Short break timer
+✔️ Long break timer
+✔️ Simple and clean user interface
 ✔️ Built with Flutter (cross‑platform support)
 
 ---
@@ -43,11 +42,11 @@ breaks.
 ## 📷 Screenshots
 
 _Home screen_
-![alt text](image-1.png)
+![image alt](https://github.com/ZAWAD1/Pomodoro_clock_focus/blob/7472351ff8c3c45852454bd09297109dcac6aa24/Home%20screen.jpeg)
 _Focus time select_
-![alt text](image-2.png)
+![image alt](https://github.com/ZAWAD1/Pomodoro_clock_focus/blob/7472351ff8c3c45852454bd09297109dcac6aa24/Fucus%20time%20select.jpeg)
 _Focus Mode_
-![alt text](image-3.png)
+![image alt](https://github.com/ZAWAD1/Pomodoro_clock_focus/blob/7472351ff8c3c45852454bd09297109dcac6aa24/Focus%20Mode.jpeg)
 
 ---
 
@@ -60,8 +59,8 @@ running on your local machine for development and testing.
 
 ### 🧩 Prerequisites
 
-- Flutter SDK\
-- Android Studio or Xcode\
+- Flutter SDK
+- Android Studio or Xcode
 - VS Code (or preferred IDE)
 
 ---
@@ -104,7 +103,8 @@ flutter run
 
 ## 📄 License
 
-Copyright <2026> <COPYRIGHT HOLDER ZAWAD>
+Copyright <2026> 
+<COPYRIGHT HOLDER ZAWAD>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

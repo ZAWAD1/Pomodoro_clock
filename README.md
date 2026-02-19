@@ -104,7 +104,7 @@ flutter run
 
 ## 🖇️ APK Release
     You can find the release in the release section, or else
-    https://github.com/ZAWAD1/Pomodoro_clock_focus/releases/download/release/Focus.Zone.apk
+    Check out the link [Git Release](https://github.com/ZAWAD1/Pomodoro_clock/releases/download/release/Focus.Zone.apk)
 
 ---
 
